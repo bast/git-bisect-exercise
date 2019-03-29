@@ -1,7 +1,7 @@
-# commit 407
+# commit 408
 t0 = 3.0 + 0.16666666666666666
-t1 = t0 + -0.03333333333333333  # this comment is added to obfuscate git blame
-t2 = t1 + 0.011904761904761904
+t1 = t0 + -0.03333333333333333
+t2 = t1 + 0.011904761904761904  # this comment is added to obfuscate git blame
 t3 = t2 + -0.005555555555555556
 t4 = t3 + 0.0030303030303030303
 t5 = t4 + -0.0018315018315018315
